@@ -1,11 +1,11 @@
 {
 	"expo": {
-		"name": "Musicont",
-		"description": "React Native & Expo music player application UI",
-		"slug": "musicont",
-		"owner": "jsxclan",
+		"name": "Followrel Music",
+		"description": "Play your favourite musics everywhere!",
+		"slug": "frlmusics",
+		"owner": "petyadev",
 		"version": "1.0.0",
-		"githubUrl": "https://github.com/jsxclan/musicont",
+		"githubUrl": "https://github.com/petyadev1/musicont",
 		"orientation": "portrait",
 		"icon": "./assets/icon.png",
 		"androidStatusBar": {
@@ -22,13 +22,13 @@
 		"assetBundlePatterns": ["**/*"],
 		"ios": {
 			"supportsTablet": true,
-			"bundleIdentifier": "jsxclan.musicont",
+			"bundleIdentifier": "com.followrel.musics",
 			"config": {
 				"googleMobileAdsAppId": "ca-app-pub-3940256099942544~1458002511"
 			}
 		},
 		"android": {
-			"package": "jsxclan.musicont",
+			"package": "com.followrel.musics",
 			"adaptiveIcon": {
 				"foregroundImage": "./assets/adaptive-icon.png",
 				"backgroundColor": "#FFFFFF"
