@@ -24,7 +24,7 @@
 			"supportsTablet": true,
 			"bundleIdentifier": "com.followrel.musics",
 			"config": {
-				"googleMobileAdsAppId": "ca-app-pub-3940256099942544~1458002511"
+				"googleMobileAdsAppId": "ca-app-pub-1667468181025469~6404955195"
 			}
 		},
 		"android": {
@@ -34,7 +34,7 @@
 				"backgroundColor": "#FFFFFF"
 			},
 			"config": {
-				"googleMobileAdsAppId": "ca-app-pub-3940256099942544~3347511713"
+				"googleMobileAdsAppId": "ca-app-pub-1667468181025469~6404955195"
 			}
 		},
 		"web": {
