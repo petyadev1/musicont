@@ -3,9 +3,6 @@
 ![License](https://img.shields.io/github/license/jsxclan/musicont?style=for-the-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jsx_clan?style=for-the-badge)](https://twitter.com/jsx_clan)
 
-### Would you like to support me?
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S64YOAQ)
 
 # Musicont
 
