@@ -57,7 +57,7 @@ const Index = ({
 				<View style={styles.menuContainer}>
 					<Animatable.View style={styles.header} animation={active ? 'slideInDown' : 'slideOutUp'} duration={2000}>
 						<Image style={styles.logo} source={require('../../assets/logo.png')} />
-						<Text style={styles.appName}>{appName}</Text>
+						<Text style={styles.appName}>Followrel Musics</Text>
 					</Animatable.View>
 					<View style={styles.middle}>
 						{menus.map((menu, key) => (
@@ -83,7 +83,7 @@ const Index = ({
 							<Text style={styles.bottomBtnTxt}>{bottomBtn?.text}</Text>
 						</TouchableOpacity>
 						<Animatable.View animation="pulse" easing="ease-out" iterationCount="infinite">
-							<TouchableOpacity style={styles.bottomBtn} activeOpacity={0.7} onPress={() => Linking.openURL('https://ko-fi.com/jsxclan')}>
+							<TouchableOpacity style={styles.bottomBtn} activeOpacity={0.7} onPress={() => Linking.openURL('https://www.buymeacoffee.com/followrel.ga')}>
 								<Text style={styles.bottomBtnTxt}>Buy me a coffee ☕</Text>
 							</TouchableOpacity>
 						</Animatable.View>
