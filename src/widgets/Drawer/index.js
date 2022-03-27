@@ -25,8 +25,8 @@ const Index = ({
 	current = '',
 	onItemPressed = () => {},
 	bottomBtn = {
-		text: 'Source Code',
-		onPress: () => Linking.openURL('https://github.com/jsxclan/musicont'),
+		text: 'Webpage',
+		onPress: () => Linking.openURL('https://www.followrel.ga'),
 	},
 	children,
 }) => {
