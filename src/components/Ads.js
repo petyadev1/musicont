@@ -19,9 +19,9 @@ import {
 } from 'expo-ads-admob';
 
 const adUnitID = Object.freeze({
-	banner: 'ca-app-pub-3940256099942544/6300978111', // Your Admob unit ID
-	interstitial: 'ca-app-pub-3940256099942544/1033173712', // Your Admob unit ID
-	reward: 'ca-app-pub-3940256099942544/5224354917', // Your Admob unit ID
+	banner: 'ca-app-pub-1667468181025469/3339716269', // Your Admob unit ID
+	interstitial: 'ca-app-pub-1667468181025469/2630249765', // Your Admob unit ID
+	reward: 'ca-app-pub-1667468181025469/8991552095', // Your Admob unit ID
 });
 
 // Set global test device ID
